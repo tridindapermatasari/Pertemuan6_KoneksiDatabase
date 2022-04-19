@@ -1,0 +1,6 @@
+C:\Users\Amru khair\Documents\SharpDevelop Projects\KoneksiDatabases\obj\Debug\KoneksiDatabases.csprojResolveAssemblyReference.cache
+C:\Users\Amru khair\Documents\SharpDevelop Projects\KoneksiDatabases\obj\Debug\KoneksiDatabases.MainForm.resources
+C:\Users\Amru khair\Documents\SharpDevelop Projects\KoneksiDatabases\obj\Debug\KoneksiDatabases.csproj.GenerateResource.Cache
+C:\xampp\htdocs\KoneksiDatabases\obj\Debug\KoneksiDatabases.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\KoneksiDatabases\obj\Debug\KoneksiDatabases.MainForm.resources
+C:\xampp\htdocs\KoneksiDatabases\obj\Debug\KoneksiDatabases.csproj.GenerateResource.Cache
